@@ -2,5 +2,7 @@
 
 Crypto telebot for everyday analyzing market
 
- What you need? 
+ What my bot does?
+ - Gives btc/usd pair value
+
  
